@@ -1,4 +1,4 @@
-import profile_picture from './assets/images/portrait.jpg';
+import profile_picture from './assets/images/profile.png';
 import JTH_pic from './assets/images/portfolio_images/JTH.png'
 import ecosight from './assets/images/portfolio_images/ecosight.png'
 import fuego_games from './assets/images/portfolio_images/fuego_games.png'
