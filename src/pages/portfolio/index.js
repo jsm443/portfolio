@@ -34,7 +34,7 @@ export const Portfolio = () => {
                     <p>{data.description}</p>
                     <a href={data.link} target="_blank">
                       <div id="button_default" className="ac_btn btn">
-                        Contact Me
+                        View Project
                         <div className="ring one"></div>
                         <div className="ring two"></div>
                         <div className="ring three"></div>
